@@ -1,8 +1,7 @@
 # Hola!👋, soy Juan Sebastián Orellana Sánchez
 
-- Soy estudiante del curso Full Stack JavaScript en Desafio Latam.
-- Certificado como Front end con React.
-- Titulado de Analista Programador.
+- Full Stack JavaScript certificado en Desafio Latam.
+- Analista Programador tilulado en Inacap.
 
 ## Contacto
 
